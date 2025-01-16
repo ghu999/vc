@@ -1,9 +1,9 @@
 from elevenlabs import ElevenLabs
-
+import apikey
 input_audio = "highlight_4547831.mp3"
 
 client = ElevenLabs(
-    api_key="sk_117691c66476b038f139c79efb58fa455b3688db8a1fb337",
+    api_key = apikey.API_KEY,
 )
 
 def gen_all_output_voices():
