@@ -1,0 +1,323 @@
+{
+    "annotation_type": "highlight_community",
+    "audio_end_offset": 1768.833,
+    "audio_start_offset": 1744.695,
+    "conversation_id": 6610,
+    "created_at": "2024-12-18T22:30:32.608281",
+    "description": "Student impact on culture/economy in Maine in upcoming decades",
+    "details": null,
+    "id": 5298044,
+    "privacy_level": "conversation",
+    "snippets": [
+        {
+            "audio_end_offset": 1768.833,
+            "audio_start_offset": 1744.695,
+            "conversation_id": 6610,
+            "duration": 24.138000000000147,
+            "id": 661000126,
+            "index_in_conversation": 126,
+            "speaker_id": 73051,
+            "speaker_name": "Kris",
+            "words": [
+                {
+                    "confidence": 0.69234,
+                    "end": 1744.959,
+                    "start": 1744.695,
+                    "word": "How"
+                },
+                {
+                    "confidence": 0.60181,
+                    "end": 1745.063,
+                    "start": 1744.967,
+                    "word": "do"
+                },
+                {
+                    "confidence": 0.71746,
+                    "end": 1745.207,
+                    "start": 1745.079,
+                    "word": "we"
+                },
+                {
+                    "confidence": 0.89661,
+                    "end": 1745.439,
+                    "start": 1745.231,
+                    "word": "impact"
+                },
+                {
+                    "confidence": 0.98644,
+                    "end": 1745.695,
+                    "start": 1745.487,
+                    "word": "the"
+                },
+                {
+                    "confidence": 0.99903,
+                    "end": 1746.079,
+                    "start": 1745.735,
+                    "word": "culture?"
+                },
+                {
+                    "confidence": 0.99599,
+                    "end": 1746.263,
+                    "start": 1746.127,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.99976,
+                    "end": 1746.455,
+                    "start": 1746.279,
+                    "word": "think"
+                },
+                {
+                    "confidence": 0.99314,
+                    "end": 1747.075,
+                    "start": 1746.495,
+                    "word": "that"
+                },
+                {
+                    "confidence": 0.99076,
+                    "end": 1748.435,
+                    "start": 1747.535,
+                    "word": "cultures"
+                },
+                {
+                    "confidence": 0.96307,
+                    "end": 1749.595,
+                    "start": 1748.855,
+                    "word": "are"
+                },
+                {
+                    "confidence": 0.79746,
+                    "end": 1751.113,
+                    "start": 1750.705,
+                    "word": "not"
+                },
+                {
+                    "confidence": 0.99948,
+                    "end": 1751.753,
+                    "start": 1751.169,
+                    "word": "changing,"
+                },
+                {
+                    "confidence": 0.99802,
+                    "end": 1752.297,
+                    "start": 1751.849,
+                    "word": "but"
+                },
+                {
+                    "confidence": 0.79531,
+                    "end": 1752.809,
+                    "start": 1752.401,
+                    "word": "Maine"
+                },
+                {
+                    "confidence": 0.99797,
+                    "end": 1753.089,
+                    "start": 1752.857,
+                    "word": "is"
+                },
+                {
+                    "confidence": 0.99766,
+                    "end": 1753.633,
+                    "start": 1753.137,
+                    "word": "becoming"
+                },
+                {
+                    "confidence": 0.9993,
+                    "end": 1754.249,
+                    "start": 1753.729,
+                    "word": "more"
+                },
+                {
+                    "confidence": 0.69292,
+                    "end": 1755.209,
+                    "start": 1754.377,
+                    "word": "culturally"
+                },
+                {
+                    "confidence": 0.73072,
+                    "end": 1755.897,
+                    "start": 1755.257,
+                    "word": "and"
+                },
+                {
+                    "confidence": 0.98601,
+                    "end": 1756.401,
+                    "start": 1756.081,
+                    "word": "the"
+                },
+                {
+                    "confidence": 0.99842,
+                    "end": 1756.841,
+                    "start": 1756.433,
+                    "word": "population"
+                },
+                {
+                    "confidence": 0.99418,
+                    "end": 1757.145,
+                    "start": 1756.913,
+                    "word": "is"
+                },
+                {
+                    "confidence": 0.85088,
+                    "end": 1757.921,
+                    "start": 1757.185,
+                    "word": "increasing."
+                },
+                {
+                    "confidence": 0.98619,
+                    "end": 1758.489,
+                    "start": 1758.113,
+                    "word": "So"
+                },
+                {
+                    "confidence": 0.97948,
+                    "end": 1758.697,
+                    "start": 1758.537,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.98668,
+                    "end": 1758.881,
+                    "start": 1758.721,
+                    "word": "think"
+                },
+                {
+                    "confidence": 0.96385,
+                    "end": 1759.161,
+                    "start": 1758.913,
+                    "word": "there's"
+                },
+                {
+                    "confidence": 0.9959,
+                    "end": 1759.457,
+                    "start": 1759.193,
+                    "word": "just"
+                },
+                {
+                    "confidence": 0.95095,
+                    "end": 1759.793,
+                    "start": 1759.521,
+                    "word": "the"
+                },
+                {
+                    "confidence": 0.99966,
+                    "end": 1760.445,
+                    "start": 1759.849,
+                    "word": "focus"
+                },
+                {
+                    "confidence": 0.99527,
+                    "end": 1761.617,
+                    "start": 1761.185,
+                    "word": "down"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1762.055,
+                    "start": 1761.681,
+                    "word": "10"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1762.471,
+                    "start": 1762.138,
+                    "word": "to"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1762.887,
+                    "start": 1762.554,
+                    "word": "20"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1763.303,
+                    "start": 1762.97,
+                    "word": "years"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1763.719,
+                    "start": 1763.386,
+                    "word": "will"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1764.135,
+                    "start": 1763.802,
+                    "word": "be"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1764.551,
+                    "start": 1764.218,
+                    "word": "one"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1764.967,
+                    "start": 1764.634,
+                    "word": "of"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1765.383,
+                    "start": 1765.05,
+                    "word": "probably"
+                },
+                {
+                    "confidence": 0.9316,
+                    "end": 1765.841,
+                    "start": 1765.466,
+                    "word": "100%"
+                },
+                {
+                    "confidence": 0.99568,
+                    "end": 1766.777,
+                    "start": 1765.913,
+                    "word": "acceptance"
+                },
+                {
+                    "confidence": 0.92391,
+                    "end": 1767.329,
+                    "start": 1766.921,
+                    "word": "maybe,"
+                },
+                {
+                    "confidence": 0.80254,
+                    "end": 1767.513,
+                    "start": 1767.377,
+                    "word": "if"
+                },
+                {
+                    "confidence": 0.98329,
+                    "end": 1767.745,
+                    "start": 1767.529,
+                    "word": "I'm"
+                },
+                {
+                    "confidence": 0.99799,
+                    "end": 1768.009,
+                    "start": 1767.785,
+                    "word": "saying"
+                },
+                {
+                    "confidence": 0.99839,
+                    "end": 1768.289,
+                    "start": 1768.057,
+                    "word": "that"
+                },
+                {
+                    "confidence": 0.9968,
+                    "end": 1768.833,
+                    "start": 1768.337,
+                    "word": "right."
+                }
+            ]
+        }
+    ],
+    "tags": [],
+    "title": "",
+    "user_id": 7313,
+    "user_name": "Allyson West"
+}

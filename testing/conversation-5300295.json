@@ -1,0 +1,77 @@
+{
+    "annotation_type": "highlight_community",
+    "audio_end_offset": 5996.995,
+    "audio_start_offset": 5993.275,
+    "conversation_id": 6790,
+    "created_at": "2025-01-23T13:44:41.482393",
+    "description": "",
+    "details": null,
+    "id": 5300295,
+    "privacy_level": "conversation",
+    "snippets": [
+        {
+            "audio_end_offset": 5996.995,
+            "audio_start_offset": 5993.275,
+            "conversation_id": 6790,
+            "duration": 50.8119999999999,
+            "id": 679000270,
+            "index_in_conversation": 270,
+            "speaker_id": 75386,
+            "speaker_name": "Maggie Sulivan",
+            "words": [
+                {
+                    "confidence": 0.78809,
+                    "end": 5993.427,
+                    "start": 5993.275,
+                    "word": "It's"
+                },
+                {
+                    "confidence": 0.99089,
+                    "end": 5993.803,
+                    "start": 5993.451,
+                    "word": "just"
+                },
+                {
+                    "confidence": 0.9977,
+                    "end": 5994.699,
+                    "start": 5994.483,
+                    "word": "such"
+                },
+                {
+                    "confidence": 0.70445,
+                    "end": 5995.003,
+                    "start": 5994.747,
+                    "word": "an"
+                },
+                {
+                    "confidence": 0.99961,
+                    "end": 5995.515,
+                    "start": 5995.059,
+                    "word": "investment"
+                },
+                {
+                    "confidence": 0.93804,
+                    "end": 5995.939,
+                    "start": 5995.635,
+                    "word": "in"
+                },
+                {
+                    "confidence": 0.56186,
+                    "end": 5996.475,
+                    "start": 5995.987,
+                    "word": "individual"
+                },
+                {
+                    "confidence": 0.77438,
+                    "end": 5996.995,
+                    "start": 5996.555,
+                    "word": "property,"
+                }
+            ]
+        }
+    ],
+    "tags": [],
+    "title": "",
+    "user_id": 6695,
+    "user_name": "Tawannah Allen"
+}

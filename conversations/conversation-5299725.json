@@ -1,0 +1,293 @@
+{
+    "annotation_type": "highlight_community",
+    "audio_end_offset": 4072.815,
+    "audio_start_offset": 4054.685,
+    "conversation_id": 6474,
+    "created_at": "2025-01-21T01:30:54.942390",
+    "description": "Value of pk-12",
+    "details": null,
+    "id": 5299725,
+    "privacy_level": "conversation",
+    "snippets": [
+        {
+            "audio_end_offset": 4072.815,
+            "audio_start_offset": 4054.685,
+            "conversation_id": 6474,
+            "duration": 18.13000000000011,
+            "id": 647400113,
+            "index_in_conversation": 113,
+            "speaker_id": 71811,
+            "speaker_name": "Dottie",
+            "words": [
+                {
+                    "confidence": 0.98678,
+                    "end": 4054.997,
+                    "start": 4054.685,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.99803,
+                    "end": 4055.585,
+                    "start": 4055.021,
+                    "word": "agree"
+                },
+                {
+                    "confidence": 0.90726,
+                    "end": 4057.101,
+                    "start": 4055.925,
+                    "word": "100%"
+                },
+                {
+                    "confidence": 0.99447,
+                    "end": 4057.693,
+                    "start": 4057.293,
+                    "word": "but"
+                },
+                {
+                    "confidence": 0.9981,
+                    "end": 4057.917,
+                    "start": 4057.749,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.81757,
+                    "end": 4058.125,
+                    "start": 4057.941,
+                    "word": "do"
+                },
+                {
+                    "confidence": 0.99987,
+                    "end": 4058.317,
+                    "start": 4058.165,
+                    "word": "think"
+                },
+                {
+                    "confidence": 0.97148,
+                    "end": 4058.813,
+                    "start": 4058.341,
+                    "word": "that"
+                },
+                {
+                    "confidence": 0.99615,
+                    "end": 4059.245,
+                    "start": 4058.949,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.99923,
+                    "end": 4059.533,
+                    "start": 4059.285,
+                    "word": "have"
+                },
+                {
+                    "confidence": 0.99881,
+                    "end": 4059.901,
+                    "start": 4059.589,
+                    "word": "a"
+                },
+                {
+                    "confidence": 0.99804,
+                    "end": 4060.541,
+                    "start": 4059.973,
+                    "word": "very"
+                },
+                {
+                    "confidence": 0.99383,
+                    "end": 4061.205,
+                    "start": 4060.693,
+                    "word": "wide"
+                },
+                {
+                    "confidence": 0.79845,
+                    "end": 4061.629,
+                    "start": 4061.285,
+                    "word": "range"
+                },
+                {
+                    "confidence": 0.99355,
+                    "end": 4062.265,
+                    "start": 4061.677,
+                    "word": "of"
+                },
+                {
+                    "confidence": 0.99966,
+                    "end": 4063.965,
+                    "start": 4063.485,
+                    "word": "friends"
+                },
+                {
+                    "confidence": 0.99789,
+                    "end": 4064.309,
+                    "start": 4064.045,
+                    "word": "or"
+                },
+                {
+                    "confidence": 0.99974,
+                    "end": 4064.661,
+                    "start": 4064.357,
+                    "word": "community"
+                },
+                {
+                    "confidence": 0.99941,
+                    "end": 4065.061,
+                    "start": 4064.733,
+                    "word": "members"
+                },
+                {
+                    "confidence": 0.98454,
+                    "end": 4065.509,
+                    "start": 4065.133,
+                    "word": "that"
+                },
+                {
+                    "confidence": 0.62793,
+                    "end": 4065.749,
+                    "start": 4065.597,
+                    "word": "you"
+                },
+                {
+                    "confidence": 0.9911,
+                    "end": 4066.141,
+                    "start": 4065.757,
+                    "word": "know,"
+                },
+                {
+                    "confidence": 0.99579,
+                    "end": 4066.453,
+                    "start": 4066.253,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.99683,
+                    "end": 4066.637,
+                    "start": 4066.469,
+                    "word": "can't"
+                },
+                {
+                    "confidence": 0.99979,
+                    "end": 4066.845,
+                    "start": 4066.661,
+                    "word": "walk"
+                },
+                {
+                    "confidence": 0.99851,
+                    "end": 4067.037,
+                    "start": 4066.885,
+                    "word": "down"
+                },
+                {
+                    "confidence": 0.99844,
+                    "end": 4067.221,
+                    "start": 4067.061,
+                    "word": "the"
+                },
+                {
+                    "confidence": 0.99973,
+                    "end": 4067.469,
+                    "start": 4067.253,
+                    "word": "street."
+                },
+                {
+                    "confidence": 0.5311,
+                    "end": 4067.773,
+                    "start": 4067.517,
+                    "word": "And"
+                },
+                {
+                    "confidence": 0.99767,
+                    "end": 4067.949,
+                    "start": 4067.829,
+                    "word": "it"
+                },
+                {
+                    "confidence": 0.99857,
+                    "end": 4068.077,
+                    "start": 4067.957,
+                    "word": "was"
+                },
+                {
+                    "confidence": 0.99915,
+                    "end": 4068.309,
+                    "start": 4068.101,
+                    "word": "all"
+                },
+                {
+                    "confidence": 0.99458,
+                    "end": 4068.749,
+                    "start": 4068.357,
+                    "word": "connected"
+                },
+                {
+                    "confidence": 0.99289,
+                    "end": 4069.103,
+                    "start": 4068.837,
+                    "word": "through"
+                },
+                {
+                    "confidence": 0.51325,
+                    "end": 4069.355,
+                    "start": 4069.149,
+                    "word": "with"
+                },
+                {
+                    "confidence": 0.99708,
+                    "end": 4069.547,
+                    "start": 4069.395,
+                    "word": "the"
+                },
+                {
+                    "confidence": 0.62167,
+                    "end": 4069.875,
+                    "start": 4069.571,
+                    "word": "school"
+                },
+                {
+                    "confidence": 0.99977,
+                    "end": 4070.579,
+                    "start": 4069.955,
+                    "word": "system,"
+                },
+                {
+                    "confidence": 0.99723,
+                    "end": 4071.003,
+                    "start": 4070.747,
+                    "word": "which"
+                },
+                {
+                    "confidence": 0.99871,
+                    "end": 4071.195,
+                    "start": 4071.019,
+                    "word": "is"
+                },
+                {
+                    "confidence": 0.98168,
+                    "end": 4071.411,
+                    "start": 4071.235,
+                    "word": "a"
+                },
+                {
+                    "confidence": 0.99218,
+                    "end": 4071.707,
+                    "start": 4071.443,
+                    "word": "good"
+                },
+                {
+                    "confidence": 0.676,
+                    "end": 4072.147,
+                    "start": 4071.771,
+                    "word": "positive"
+                },
+                {
+                    "confidence": 0.96049,
+                    "end": 4072.815,
+                    "start": 4072.211,
+                    "word": "thing."
+                }
+            ]
+        }
+    ],
+    "tags": [],
+    "title": "",
+    "user_id": 7120,
+    "user_name": "Leia Lowery"
+}

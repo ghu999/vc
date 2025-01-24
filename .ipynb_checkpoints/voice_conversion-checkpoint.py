@@ -3,8 +3,9 @@ import apikey
 input_audio = "highlight_4547831.mp3"
 
 client = ElevenLabs(
-    api_key = apikey.API_KEY,
+    api_key=apikey.API_KEY,
 )
+
 
 def gen_all_output_voices():
     print("Voices:")
@@ -27,7 +28,9 @@ def gen_all_output_voices():
             except Exception as e:
                 print(f"An error occurred: {e}")
 
-gen_all_output_voices()
 
+def gen_n_output_voices(n):
+    for voice in client.voices.get_all():
+        print(len(voice[1]))
 
 
