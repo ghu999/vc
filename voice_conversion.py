@@ -80,7 +80,7 @@ def write_audio_file(output_dir, input_audio, voice, id=""):
         print(f"An error occurred: {e}")
 
 
-def write_output_voice(output_dir, input_audio):
+def write_output_voice(output_dir, input_audio, id=""):
     """
     Randomly selects one voice from ElevenLabs to convert the input audio to.
 
@@ -93,10 +93,10 @@ def write_output_voice(output_dir, input_audio):
     """
     random_voices = random.sample(ALL_VOICES, 1)
     for voice in random_voices:
-        return write_audio_file(output_dir, input_audio, voice)
+        return write_audio_file(output_dir, input_audio, voice, id=id)
 
 
-def main(output_dir, input_highlight, audio_path):
+def main(output_dir, input_highlight, audio_path, id=""):
     """
     Takes an input Conversation Highlight and returns a new Conversation
     Highlight that is converted from the original
@@ -112,7 +112,7 @@ def main(output_dir, input_highlight, audio_path):
         Highlight transformed is set to True
         og_hr (original highlight record) is set to the input highlight
     """
-    converted_audio = write_output_voice(output_dir, audio_path)
+    converted_audio = write_output_voice(output_dir, audio_path, id=id)
     numpy_array = mp3_to_ndarray(converted_audio, 16000)
     output_highlight = ConversationHighlight(
         share_location=None,

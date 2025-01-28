@@ -5,6 +5,7 @@ import argparse
 from pathlib import Path
 import json
 from conversation_highlight import ConversationHighlight
+import redaction as r
 
 
 if __name__ == "__main__":
@@ -39,9 +40,12 @@ if __name__ == "__main__":
             tags=data['tags']
         )
         print(highlight)
-        #convert
-        converted_highlight = vc.main(args.output_directory, highlight, audio_path)
+        converted_highlight = vc.main(args.output_directory, highlight, 
+                                      audio_path, args.id)
+        r.redact_mp3_by_words(audio_path, json_file, "testing", id=args.id,
+                              redacted_words=['gay'])
         print(converted_highlight)
+        
     elif response == "local file":
         json_file = input("enter path of json.file: ")
         audio_path = input("enter path of mp3 file: ")

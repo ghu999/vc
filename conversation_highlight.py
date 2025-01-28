@@ -2,6 +2,7 @@ import librosa
 import matplotlib.pyplot as plt
 import json
 import numpy as np
+from pydub import AudioSegment
 
 
 class ConversationHighlight:
@@ -65,7 +66,6 @@ def plot_spectogram(path):
 
     Args:
         path (String): path to audio file
-    
     Returns:
         None
     """
@@ -96,13 +96,44 @@ def mp3_to_ndarray(path, samp_rate):
     return y
 
 
+def ndarray_to_mp3(ndarray, output_path, samp_rate):
+    """
+    Converts a NumPy array to an MP3 file.
+
+    Args:
+        ndarray (numpy.ndarray): 2D NumPy array representing audio data
+        output_path (String): Path to save the MP3 file
+        samp_rate (int): Sampling rate of the audio in Hz
+    Returns:
+        output_path: Path of the saved mp3 file
+    """
+    if np.issubdtype(ndarray.dtype, np.floating):
+        ndarray = (ndarray * 32767).astype(np.int16)
+    if len(ndarray.shape) == 1:
+        ndarray = np.expand_dims(ndarray, axis=1)
+    interleaved = ndarray.flatten()
+    # Create raw audio data
+    raw_audio = interleaved.tobytes()
+    # Create an AudioSegment from the raw PCM data
+    channels = ndarray.shape[1]
+    audio = AudioSegment(
+        data=raw_audio,
+        sample_width=2,  # 2 bytes per sample (16-bit audio)
+        frame_rate=samp_rate,
+        channels=channels
+    )
+    # Export as MP3
+    audio.export(output_path, format="mp3")
+    print(f"MP3 file saved to {output_path}")
+    return output_path
+
+
 def generate_transcript(file_path):
     """
     Extracts transcript from Fora .json file of a highlight
 
     Args:
         file_path (String): path to .json file downloaded from Fora
-    
     Returns:
         transcript (String): string containing the entire transcript
         of the highlight

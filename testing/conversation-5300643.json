@@ -1,0 +1,475 @@
+{
+    "annotation_type": "highlight_community",
+    "audio_end_offset": 1649.578,
+    "audio_start_offset": 1627.336,
+    "conversation_id": 6970,
+    "created_at": "2025-01-25T02:06:39.097656",
+    "description": "Seth talks about being misunderstood about his political beliefs.",
+    "details": null,
+    "id": 5300643,
+    "privacy_level": "public",
+    "snippets": [
+        {
+            "audio_end_offset": 1649.578,
+            "audio_start_offset": 1627.336,
+            "conversation_id": 6970,
+            "duration": 49.85799999999995,
+            "id": 697000124,
+            "index_in_conversation": 124,
+            "speaker_id": 76389,
+            "speaker_name": "Seth Phillips",
+            "words": [
+                {
+                    "confidence": 0.99949,
+                    "end": 1627.68,
+                    "start": 1627.336,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.99861,
+                    "end": 1628.016,
+                    "start": 1627.72,
+                    "word": "talked"
+                },
+                {
+                    "confidence": 0.99923,
+                    "end": 1628.336,
+                    "start": 1628.048,
+                    "word": "about"
+                },
+                {
+                    "confidence": 0.99868,
+                    "end": 1628.688,
+                    "start": 1628.408,
+                    "word": "how"
+                },
+                {
+                    "confidence": 0.99914,
+                    "end": 1628.96,
+                    "start": 1628.744,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.99968,
+                    "end": 1629.2,
+                    "start": 1629.0,
+                    "word": "think"
+                },
+                {
+                    "confidence": 0.99883,
+                    "end": 1629.392,
+                    "start": 1629.24,
+                    "word": "we"
+                },
+                {
+                    "confidence": 0.99924,
+                    "end": 1629.552,
+                    "start": 1629.416,
+                    "word": "need"
+                },
+                {
+                    "confidence": 0.99843,
+                    "end": 1629.664,
+                    "start": 1629.576,
+                    "word": "to"
+                },
+                {
+                    "confidence": 0.99917,
+                    "end": 1629.792,
+                    "start": 1629.672,
+                    "word": "keep"
+                },
+                {
+                    "confidence": 0.98469,
+                    "end": 1629.904,
+                    "start": 1629.816,
+                    "word": "the"
+                },
+                {
+                    "confidence": 0.99932,
+                    "end": 1630.08,
+                    "start": 1629.912,
+                    "word": "second"
+                },
+                {
+                    "confidence": 0.99962,
+                    "end": 1630.416,
+                    "start": 1630.12,
+                    "word": "amendment."
+                },
+                {
+                    "confidence": 0.99576,
+                    "end": 1630.544,
+                    "start": 1630.448,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.99875,
+                    "end": 1630.672,
+                    "start": 1630.552,
+                    "word": "feel"
+                },
+                {
+                    "confidence": 0.97864,
+                    "end": 1630.784,
+                    "start": 1630.696,
+                    "word": "like"
+                },
+                {
+                    "confidence": 0.96767,
+                    "end": 1630.928,
+                    "start": 1630.792,
+                    "word": "it's"
+                },
+                {
+                    "confidence": 0.99782,
+                    "end": 1631.024,
+                    "start": 1630.944,
+                    "word": "an"
+                },
+                {
+                    "confidence": 0.99982,
+                    "end": 1631.248,
+                    "start": 1631.032,
+                    "word": "important"
+                },
+                {
+                    "confidence": 0.99833,
+                    "end": 1631.696,
+                    "start": 1631.304,
+                    "word": "amendment."
+                },
+                {
+                    "confidence": 0.97,
+                    "end": 1632.032,
+                    "start": 1631.896,
+                    "word": "And"
+                },
+                {
+                    "confidence": 0.99962,
+                    "end": 1632.144,
+                    "start": 1632.056,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.99908,
+                    "end": 1632.272,
+                    "start": 1632.152,
+                    "word": "was"
+                },
+                {
+                    "confidence": 0.99321,
+                    "end": 1632.496,
+                    "start": 1632.296,
+                    "word": "talking"
+                },
+                {
+                    "confidence": 0.9996,
+                    "end": 1632.672,
+                    "start": 1632.528,
+                    "word": "about"
+                },
+                {
+                    "confidence": 0.99903,
+                    "end": 1633.216,
+                    "start": 1632.696,
+                    "word": "that."
+                },
+                {
+                    "confidence": 0.94944,
+                    "end": 1633.632,
+                    "start": 1633.368,
+                    "word": "And"
+                },
+                {
+                    "confidence": 0.97371,
+                    "end": 1634.08,
+                    "start": 1633.656,
+                    "word": "then"
+                },
+                {
+                    "confidence": 0.9921,
+                    "end": 1635.024,
+                    "start": 1634.896,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.98544,
+                    "end": 1635.152,
+                    "start": 1635.032,
+                    "word": "was"
+                },
+                {
+                    "confidence": 0.93586,
+                    "end": 1635.328,
+                    "start": 1635.176,
+                    "word": "talking"
+                },
+                {
+                    "confidence": 0.35726,
+                    "end": 1635.424,
+                    "start": 1635.344,
+                    "word": "that"
+                },
+                {
+                    "confidence": 0.47887,
+                    "end": 1635.6,
+                    "start": 1635.432,
+                    "word": "in"
+                },
+                {
+                    "confidence": 0.9898,
+                    "end": 1635.904,
+                    "start": 1635.816,
+                    "word": "a"
+                },
+                {
+                    "confidence": 0.99945,
+                    "end": 1636.128,
+                    "start": 1635.912,
+                    "word": "discussion"
+                },
+                {
+                    "confidence": 0.99024,
+                    "end": 1636.32,
+                    "start": 1636.144,
+                    "word": "with"
+                },
+                {
+                    "confidence": 0.70187,
+                    "end": 1636.512,
+                    "start": 1636.36,
+                    "word": "some"
+                },
+                {
+                    "confidence": 0.69048,
+                    "end": 1636.768,
+                    "start": 1636.536,
+                    "word": "friend..."
+                },
+                {
+                    "confidence": 0.99003,
+                    "end": 1637.392,
+                    "start": 1637.208,
+                    "word": "Some"
+                },
+                {
+                    "confidence": 0.99375,
+                    "end": 1638.34,
+                    "start": 1637.416,
+                    "word": "coworkers,"
+                },
+                {
+                    "confidence": 0.96025,
+                    "end": 1639.962,
+                    "start": 1639.41,
+                    "word": "and"
+                },
+                {
+                    "confidence": 0.99511,
+                    "end": 1640.33,
+                    "start": 1640.066,
+                    "word": "this"
+                },
+                {
+                    "confidence": 0.99597,
+                    "end": 1640.73,
+                    "start": 1640.37,
+                    "word": "guy,"
+                },
+                {
+                    "confidence": 0.9756,
+                    "end": 1640.954,
+                    "start": 1640.81,
+                    "word": "one"
+                },
+                {
+                    "confidence": 0.96666,
+                    "end": 1641.034,
+                    "start": 1640.962,
+                    "word": "of"
+                },
+                {
+                    "confidence": 0.99929,
+                    "end": 1641.162,
+                    "start": 1641.042,
+                    "word": "my"
+                },
+                {
+                    "confidence": 0.99971,
+                    "end": 1641.274,
+                    "start": 1641.186,
+                    "word": "coworkers"
+                },
+                {
+                    "confidence": 0.99017,
+                    "end": 1642.346,
+                    "start": 1641.746,
+                    "word": "just"
+                },
+                {
+                    "confidence": 0.97676,
+                    "end": 1642.762,
+                    "start": 1642.498,
+                    "word": "kind"
+                },
+                {
+                    "confidence": 0.85076,
+                    "end": 1642.874,
+                    "start": 1642.786,
+                    "word": "of"
+                },
+                {
+                    "confidence": 0.88609,
+                    "end": 1643.146,
+                    "start": 1642.882,
+                    "word": "turns"
+                },
+                {
+                    "confidence": 0.9977,
+                    "end": 1643.274,
+                    "start": 1643.178,
+                    "word": "to"
+                },
+                {
+                    "confidence": 0.97214,
+                    "end": 1643.402,
+                    "start": 1643.282,
+                    "word": "me"
+                },
+                {
+                    "confidence": 0.83716,
+                    "end": 1643.562,
+                    "start": 1643.426,
+                    "word": "and"
+                },
+                {
+                    "confidence": 0.74132,
+                    "end": 1643.674,
+                    "start": 1643.586,
+                    "word": "is"
+                },
+                {
+                    "confidence": 0.97294,
+                    "end": 1643.754,
+                    "start": 1643.682,
+                    "word": "like,"
+                },
+                {
+                    "confidence": 0.93331,
+                    "end": 1643.946,
+                    "start": 1643.762,
+                    "word": "\"Oh,"
+                },
+                {
+                    "confidence": 0.99481,
+                    "end": 1644.074,
+                    "start": 1643.978,
+                    "word": "so"
+                },
+                {
+                    "confidence": 0.99852,
+                    "end": 1644.202,
+                    "start": 1644.082,
+                    "word": "you"
+                },
+                {
+                    "confidence": 0.99936,
+                    "end": 1644.378,
+                    "start": 1644.226,
+                    "word": "hate"
+                },
+                {
+                    "confidence": 0.97045,
+                    "end": 1644.634,
+                    "start": 1644.394,
+                    "word": "gay"
+                },
+                {
+                    "confidence": 0.99975,
+                    "end": 1645.322,
+                    "start": 1644.682,
+                    "word": "people?\""
+                },
+                {
+                    "confidence": 0.95774,
+                    "end": 1646.09,
+                    "start": 1645.506,
+                    "word": "And"
+                },
+                {
+                    "confidence": 0.98875,
+                    "end": 1646.442,
+                    "start": 1646.21,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.99665,
+                    "end": 1646.794,
+                    "start": 1646.466,
+                    "word": "was"
+                },
+                {
+                    "confidence": 0.97686,
+                    "end": 1647.13,
+                    "start": 1646.882,
+                    "word": "like,"
+                },
+                {
+                    "confidence": 0.99534,
+                    "end": 1647.834,
+                    "start": 1647.17,
+                    "word": "that's"
+                },
+                {
+                    "confidence": 0.99807,
+                    "end": 1648.202,
+                    "start": 1647.962,
+                    "word": "an"
+                },
+                {
+                    "confidence": 0.90452,
+                    "end": 1648.666,
+                    "start": 1648.226,
+                    "word": "absurd"
+                },
+                {
+                    "confidence": 0.99979,
+                    "end": 1648.906,
+                    "start": 1648.698,
+                    "word": "jump"
+                },
+                {
+                    "confidence": 0.99291,
+                    "end": 1649.034,
+                    "start": 1648.938,
+                    "word": "of"
+                },
+                {
+                    "confidence": 0.98852,
+                    "end": 1649.114,
+                    "start": 1649.042,
+                    "word": "the"
+                },
+                {
+                    "confidence": 0.99968,
+                    "end": 1649.306,
+                    "start": 1649.122,
+                    "word": "gun"
+                },
+                {
+                    "confidence": 0.99732,
+                    "end": 1649.578,
+                    "start": 1649.338,
+                    "word": "there."
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "political discourse"
+    ],
+    "title": "",
+    "user_id": 7305,
+    "user_name": "Stephanie Rivera"
+}

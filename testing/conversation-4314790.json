@@ -1,0 +1,187 @@
+{
+    "annotation_type": "highlight_community",
+    "audio_end_offset": 676.0,
+    "audio_start_offset": 665.9,
+    "conversation_id": 1269,
+    "created_at": "2021-10-19T21:24:47.778355",
+    "description": "important to set beliefs about having a positive impact",
+    "details": null,
+    "id": 4314790,
+    "privacy_level": "public",
+    "snippets": [
+        {
+            "audio_end_offset": 676.0,
+            "audio_start_offset": 665.9,
+            "conversation_id": 1269,
+            "duration": 52.30000000000007,
+            "id": 126900020,
+            "index_in_conversation": 20,
+            "speaker_id": 32094,
+            "speaker_name": "Joe",
+            "words": [
+                {
+                    "confidence": 0.8472754955291748,
+                    "end": 666.1,
+                    "start": 665.9,
+                    "word": "I"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 666.4,
+                    "start": 666.1,
+                    "word": "think"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 666.6,
+                    "start": 666.4,
+                    "word": "it's"
+                },
+                {
+                    "confidence": 0.8701378107070923,
+                    "end": 667.2,
+                    "start": 666.6,
+                    "word": "important"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 667.3,
+                    "start": 667.2,
+                    "word": "to"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 667.6,
+                    "start": 667.3,
+                    "word": "have"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 667.7,
+                    "start": 667.6,
+                    "word": "a"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 668.2,
+                    "start": 667.7,
+                    "word": "set"
+                },
+                {
+                    "confidence": 0.8757207989692688,
+                    "end": 668.6,
+                    "start": 668.2,
+                    "word": "of"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 670.0,
+                    "start": 669.4,
+                    "word": "beliefs"
+                },
+                {
+                    "confidence": 0.8604333996772766,
+                    "end": 671.0,
+                    "start": 670.0,
+                    "word": "about"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 672.3,
+                    "start": 672.0,
+                    "word": "making"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 672.4,
+                    "start": 672.3,
+                    "word": "a"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 672.9,
+                    "start": 672.4,
+                    "word": "positive"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 673.2,
+                    "start": 672.9,
+                    "word": "difference"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 673.3,
+                    "start": 673.2,
+                    "word": "in"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 673.4,
+                    "start": 673.3,
+                    "word": "the"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 673.7,
+                    "start": 673.4,
+                    "word": "world,"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 673.9,
+                    "start": 673.7,
+                    "word": "not"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 674.1,
+                    "start": 673.9,
+                    "word": "just"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 674.3,
+                    "start": 674.1,
+                    "word": "being"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 674.8,
+                    "start": 674.3,
+                    "word": "about"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 675.3,
+                    "start": 674.9,
+                    "word": "everything"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 675.4,
+                    "start": 675.3,
+                    "word": "is"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 675.7,
+                    "start": 675.4,
+                    "word": "about"
+                },
+                {
+                    "confidence": 0.9128385782241821,
+                    "end": 676.0,
+                    "start": 675.7,
+                    "word": "you."
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "goodlife"
+    ],
+    "title": "",
+    "user_id": 3059,
+    "user_name": "Erin R."
+}
