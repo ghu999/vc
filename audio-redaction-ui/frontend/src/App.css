@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.transcript-container-scrollable {
+  max-height: 400px; /* Adjust to your desired height */
+  overflow-y: auto; /* Adds vertical scrolling */
+  max-width: 100%; /* Ensures it doesn't exceed the screen width */
+  word-wrap: normal; /* Prevents breaking words */
+  white-space: normal; /* Allows wrapping */
+  overflow-wrap: anywhere; /* Ensures text wraps within the container */
+  padding: 10px;
+  border: 1px solid #ccc; /* Optional: Add a border for visibility */
+  border-radius: 8px; /* Optional: Rounded corners */
+  background-color: #f9f9f9; /* Optional: Background color */
+}
+
+.clear-all-button {
+  padding: 6px 12px;
+  font-size: 14px;
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.clear-all-button:hover {
+  background-color: #e63939;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
