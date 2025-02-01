@@ -5,7 +5,6 @@ import argparse
 from pathlib import Path
 import json
 from conversation_highlight import ConversationHighlight
-import redaction as r
 
 
 if __name__ == "__main__":

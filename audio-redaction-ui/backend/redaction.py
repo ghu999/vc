@@ -4,6 +4,7 @@ from pydub.generators import Sine
 from datetime import datetime
 from conversation_highlight import generate_transcript
 
+
 def redact_mp3_by_time(input_file, output_dir, id, redaction_points,
                        redact_freq=1000, redact_duration=1000):
     """
@@ -33,7 +34,22 @@ def redact_mp3_by_time(input_file, output_dir, id, redaction_points,
 
 
 def redact_mp3_by_single_words(input_audio, input_json, output_dir, id,
-                        redacted_indeces, redact_freq=1000):
+                               redacted_indeces, redact_freq=1000):
+    """
+    Redact an MP3 file by replacing a single word (by index) with a bleep tone.
+
+    Args:
+        input_audio (String): Path to the input MP3 file
+        input_json (String): Path to .json file of the highlight
+        output_dir (String): Directory to save the mp3 file under
+        id (String): id of highlight
+        redaction_indices (list of ints): List of indices of transcript
+        that should be redacted 
+        redact_freq (int): Frequency of the bleep tone in Hz
+        (default is 1000 Hz)
+    Returns:
+        (String): path of redacted mp3 file
+    """
     audio = AudioSegment.from_file(input_audio, format="mp3")
     with open(input_json, 'r') as file:
         data = json.load(file)
@@ -56,10 +72,11 @@ def redact_mp3_by_single_words(input_audio, input_json, output_dir, id,
     audio.export(output_dir + "/" + f"redacted_{id}_" + datetime.now().strftime('%H:%M:%S') + ".mp3", format="mp3")
     return output_dir + "/" + f"redacted_{id}_" + datetime.now().strftime('%H:%M:%S') + ".mp3"
 
+
 def redact_mp3_by_words(input_audio, input_json, output_dir, id,
                         redacted_words, redact_freq=1000):
     """
-    Redact an MP3 file by replacing specific words with a bleep tone.
+    Redact an MP3 file by replacing every instance of a word with a bleep tone.
 
     Args:
         input_audio (String): Path to the input MP3 file
