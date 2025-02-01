@@ -13,8 +13,9 @@ However, speech synthesis and editing technologies have improved significantly s
 This UROP will involve working together with CCC research and prototype engineering staff in order to implement extensions to the voice anonymization pipeline as described above. Beyond implementing the new speech and audio processing capabilities, the goal will be to develop a modularized repository and/or package that can be used in demos or real-world deployment settings.
 
 To run this,
-1. Go to ```frontend``` directory.
-2. ```npm run build```
-3. ```cd build```
-4. ```python3 -m http.server 9000```
+1. In the ```backend``` directory, run ```python app.py``` Failure to do so will not fetch the transcript!
+2. Go to ```frontend``` directory.
+3. ```npm run build```
+4. ```cd build```
+5. ```python3 -m http.server 9000```
 
